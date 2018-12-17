@@ -1,0 +1,7 @@
+pom.py
+pomd.egg-info/PKG-INFO
+pomd.egg-info/SOURCES.txt
+pomd.egg-info/dependency_links.txt
+pomd.egg-info/entry_points.txt
+pomd.egg-info/requires.txt
+pomd.egg-info/top_level.txt
